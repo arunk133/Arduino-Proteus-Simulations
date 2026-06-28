@@ -4,7 +4,7 @@ This repository features a collection of integrated hardware layouts, circuit de
 
 ### 🔗 Companion Software Repository
 > 💡 **Looking for the code?** The programmatic firmware logic that drives these hardware layouts is hosted in the companion repository:  
-> 👉 **[Arduino-Embedded-Firmware](https://github.com/arunk133/Arduino-Embedded-Firmware)** *(Replace with your actual link)*
+> 👉 **[Arduino-Embedded-Firmware](https://github.com/arunk133/Arduino-Embedded-Firmware)** 
 
 ---
 
